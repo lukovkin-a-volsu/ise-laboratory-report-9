@@ -8,5 +8,6 @@ int main()
   cout << "Input a second number: " << endl;
   cin >> n2;
   cout << "Sum: " << n1 + n2 << endl;
+  cout << "Difference: " << n1 - n2 << endl;
   return 0;
 }
