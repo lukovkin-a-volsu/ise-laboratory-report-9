@@ -1,5 +1,6 @@
 #include "sdt.h"
 
+// It's a training program
 int main()
 {
   int n1, n2;
