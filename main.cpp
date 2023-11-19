@@ -10,5 +10,6 @@ int main()
   cin >> n2;
   cout << "Sum: " << n1 + n2 << endl;
   cout << "Difference: " << n1 - n2 << endl;
+  cout << "Quotient: " << n1 / n2 << endl;
   return 0;
 }
