@@ -7,5 +7,6 @@ int main()
   cin >> n1;
   cout << "Input a second number: " << endl;
   cin >> n2;
+  cout << "Sum: " << n1 + n2 << endl;
   return 0;
 }
